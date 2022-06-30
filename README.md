@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Java and android development
 - 🌱 I’m currently learning ...advanced java development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email: karugukeith@gmail.cp,
+- 📫 How to reach me ...email: karugukeith@gmail.com
 
 <!---
 KaruguKeith/KaruguKeith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
