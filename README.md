@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaruguKeith
-- 👀 I’m interested in ...Java and android development
-- 🌱 I’m currently learning ...advanced java development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Java, android development and web development
+- 🌱 I’m currently learning ...advanced java development,andvanced android development and advanced web development
+- 💞️ I’m looking to collaborate on ...mainly android applications and web applications
 - 📫 How to reach me ...email: karugukeith@gmail.com
 
 <!---
